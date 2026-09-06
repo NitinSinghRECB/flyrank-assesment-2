@@ -1,0 +1,22 @@
+.settings-container {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+.setting-item {
+  margin-bottom: 15px;
+}
+.setting-item label {
+  display: block;
+  margin-bottom: 5px;
+}
+.save-btn {
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 4px;
+  cursor: pointer;
+}
